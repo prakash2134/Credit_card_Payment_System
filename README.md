@@ -137,10 +137,20 @@ cd backend_fastapi && pytest
 
 After running `createsuperuser`, note the chosen username here for the reviewer, e.g.:
 ```
-username: admin
-password: <set at createsuperuser prompt>
+username: Prakash22
+password: STK26-3892
 ```
 
 ## Screenshots
 
-_Add UI screenshots here before final submission (Register, Login, Dashboard, Add Card, Make Payment, Transaction History, Admin Dashboard)._
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 50 35 AM" src="https://github.com/user-attachments/assets/2a99f452-ab68-42af-b219-4988c7eb289c" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 50 05 AM" src="https://github.com/user-attachments/assets/b7cfab35-9b54-4f78-902a-b69b00047363" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 49 47 AM" src="https://github.com/user-attachments/assets/5675f9e3-fb48-4e13-b7c2-a36f95eb8c43" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 48 54 AM" src="https://github.com/user-attachments/assets/0c18c3a5-cd35-45c6-9b74-b9329aa4a5e9" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 44 58 AM" src="https://github.com/user-attachments/assets/ef5f9549-2f8a-4cc1-8b19-253955c712b2" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 42 33 AM" src="https://github.com/user-attachments/assets/5e9a9bd5-2b60-490a-8fef-e6d129db2cf9" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 42 24 AM" src="https://github.com/user-attachments/assets/db567f32-d6bb-47eb-8cf0-9bbc56fe7fd8" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 39 13 AM" src="https://github.com/user-attachments/assets/11dd4d99-6def-4582-89d1-4a0a0cfa248b" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 38 46 AM" src="https://github.com/user-attachments/assets/8d1444ae-fb92-49b5-be2c-dca78e723961" />
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 9 37 57 AM" src="https://github.com/user-attachments/assets/aeba8101-505e-408f-9e5a-ae79cfba32cd" />
+
